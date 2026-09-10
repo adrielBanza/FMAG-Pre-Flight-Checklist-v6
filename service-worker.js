@@ -1,1 +1,1 @@
-const CACHE_NAME="fmag-checklist-v1";
+self.addEventListener('fetch',e=>{});
